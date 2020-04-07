@@ -9,7 +9,7 @@ function angkaPrima(angka) {
     return true;
 }
 
-for( var angka = 1;  angka< 20;  angka++ ) {
+for( var angka = 1;  angka< 33;  angka++ ) {
         if( angkaPrima(angka)) {
         
  }
